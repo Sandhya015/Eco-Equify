@@ -1,1 +1,2 @@
 # EcoEquify
+# Eco-Equify
